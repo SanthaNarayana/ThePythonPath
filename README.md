@@ -1,2 +1,15 @@
-# ThePythonPath
-Welcome to ThePythonPath! This blog is dedicated to Python learners. I share tutorials, coding challenges, and solutions to help you master Python step by step. Whether you're a beginner or advanced, my goal is to make learning Python easier and more enjoyable for all. Join me on this coding journey!
+# The Python Path
+
+Welcome to **The Python Path**! This repository contains code and resources for Python enthusiasts.
+
+## Blog
+Explore my blog hosted on GitHub Pages for tutorials, insights, and more:
+
+[Visit the Blog](https://santhanarayana.github.io/ThePythonPath/)
+
+## Repository Contents
+- `src/`: Code files
+- `docs/`: Blog and website files
+
+## About
+This project is dedicated to helping developers master Python and improve their skills.
