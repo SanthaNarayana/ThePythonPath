@@ -1,4 +1,4 @@
-[Home](/)
+[Home](./index)
 # Why Python: Your Gateway to Programming Excellence
 Discover why Python is a great choice for beginners and experts alike.
 

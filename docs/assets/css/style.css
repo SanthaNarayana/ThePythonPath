@@ -8,6 +8,16 @@ body {
     padding: 0;
 }
 
+/* Add a container for content */
+.container {
+    max-width: 1200px; /* Adjust to desired width */
+    margin: 20px auto; /* Center the content with space on top and bottom */
+    padding: 20px; /* Add some inner spacing */
+    background-color: #fff; /* Optional: Add a background color */
+    border-radius: 5px; /* Optional: Add rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow */
+}
+
 header {
     background-color: #333;
     color: #fff;

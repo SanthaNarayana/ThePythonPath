@@ -18,7 +18,7 @@ Explore a wide range of topics, from basic Python concepts to advanced machine l
 
 
 ### Python Basics
-[Install Python](./pythonBasics/install_anaconda_guide)
+[Install Python](./python_basics/install_anaconda_guide)
 
 Learn Python programming starting from installation to advanced concepts like classes and control structures. Coming soon!
 

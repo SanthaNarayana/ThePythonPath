@@ -1,4 +1,4 @@
-
+[Home](../index) 
 # Introduction to Pandas: A Beginner's Guide
 
 Pandas is one of the most popular and powerful libraries for data manipulation and analysis in Python. Whether you're working with small datasets or large volumes of structured data, Pandas provides the tools you need to efficiently analyze and clean your data. In this blog, we will explore the basics of Pandas, including its core data structures, installation, and common operations.
