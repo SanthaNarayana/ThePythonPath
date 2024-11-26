@@ -4,6 +4,7 @@ description: Our journey to mastering Python, Machine Learning, and NLP starts h
 author: Your Name
 baseurl: "/" 
 url: "https://SanthaNarayana.github.io"
+style: "/assets/css/style.css"
 
 # Theme and Appearance
 theme: jekyll-theme-cayman # Simple and clean theme. 
