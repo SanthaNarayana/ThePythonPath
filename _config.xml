@@ -1,0 +1,39 @@
+# Site Metadata
+title: The Python Path
+description: Our journey to mastering Python, Machine Learning, and NLP starts here!
+author: Your Name
+baseurl: "/" 
+url: "https://SanthaNarayana.github.io"
+
+# Theme and Appearance
+theme: jekyll-theme-cayman # Simple and clean theme. 
+markdown: kramdown
+highlighter: rouge # Syntax highlighting for code snippets
+
+# Navigation
+permalink: pretty # Makes links cleaner (e.g., /posts/post1/ instead of /posts/post1.html)
+
+# Exclude Files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
+
+# Customizations
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "SanthaNarayana"
+
+# Plugins (optional if using local testing or advanced features)
+plugins:
+  - jekyll-feed # Adds RSS feed
+  - jekyll-sitemap # Adds sitemap for search engines
+
+# Build Settings
+future: true
+lsi: false
