@@ -1,4 +1,4 @@
-[Home](../index.md) | [Next: Install Python](./PythonBasics/install_anaconda_guide.md)
+[Home](/)
 # Why Python: Your Gateway to Programming Excellence
 Discover why Python is a great choice for beginners and experts alike.
 

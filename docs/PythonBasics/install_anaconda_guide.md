@@ -1,4 +1,4 @@
-[Home](../../index.md) 
+[Home](/) 
 
 # How to Install Anaconda: A Step-by-Step Guide for Python Beginners  
 

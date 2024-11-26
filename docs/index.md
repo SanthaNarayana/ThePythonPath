@@ -14,15 +14,17 @@ Your journey to mastering Python, Machine Learning, and NLP starts here!
 Explore a wide range of topics, from basic Python concepts to advanced machine learning and natural language processing (NLP). Below is an overview of what’s coming soon!
 
 ### Why Python 
-[Why Python](./_posts/whyPython)
+[Why Python](./whyPython)
 
 
 ### Python Basics
-[Install Python](/docs/_posts/PythonBasics/install_anaconda_guide.md)
+[Install Python](./pythonBasics/install_anaconda_guide)
 
 Learn Python programming starting from installation to advanced concepts like classes and control structures. Coming soon!
 
 ### Data Science Libraries
+[Pandas Basics](./pandas/pandaBasics)
+
 Master the essential libraries for data science like NumPy, pandas, and Matplotlib. Learn how to analyze and visualize data. Coming soon!
 
 ### Machine Learning & NLP
