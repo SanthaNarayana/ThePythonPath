@@ -14,7 +14,7 @@ Your journey to mastering Python, Machine Learning, and NLP starts here!
 Explore a wide range of topics, from basic Python concepts to advanced machine learning and natural language processing (NLP). Below is an overview of what’s coming soon!
 
 ### Why Python 
-[Why Python](/docs/_posts/whyPython.md)
+[Why Python](./_posts/whyPython)
 
 
 ### Python Basics
